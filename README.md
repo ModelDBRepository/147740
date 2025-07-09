@@ -1,13 +1,9 @@
-Links are available below to the two ~400MB files associated with the  
-paper:
+Links are available below to the two ~400MB files associated with the paper:
 
-Victor P. Andreev. Cytoplasmic electric fields and electroosmosis:  
-possible solution for the paradoxes of the intracellular transport of  
-biomolecules. *PLoS One*, submitted.
+Victor P. Andreev. Cytoplasmic electric fields and electroosmosis: 
+possible solution for the paradoxes of the intracellular transport of biomolecules. *PLoS One*, submitted.
 
-Click the below to download and then run md5sum (available on  
-etree.org for windows) to verify that the files arrived intact on your  
-system:
+Click the below to download and then run md5sum (available on etree.org for windows) to verify that the files arrived intact on your system:
 
 http://senselab.med.yale.edu/modeldb/data/intracellular_electroosmosis_FRAP.zip
 
